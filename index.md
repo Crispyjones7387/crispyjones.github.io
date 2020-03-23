@@ -2,7 +2,7 @@
 
 ---
 
-### Brain activity prediction from fNIRS signals using Machine Learning 
+### B 
 
 [Nirx](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
